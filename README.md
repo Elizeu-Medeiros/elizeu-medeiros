@@ -12,14 +12,15 @@
   <img align="center" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
- 
+  <img align="center" alt="IONIC" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="IONIC" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
   
   ##
  
 <div> 
 
  <a href="https://t.me/Elizeumedeiros" target="_blank"><img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-  <a href="https://wa.me/5521981317763/?text=Ol%C3%A1%20estou%20vindo%20atrav%C3%A9s%20do%20seu%20portif%C3%B3lio%20no%20Github" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-32CD32?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/5521981317763/?text=Ol%C3%A1%20estou%20vindo%20atrav%C3%A9s%20do%20seu%20portif%C3%B3lio%20no%20Github" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-228B22?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = "mailto:elizeumedeiros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elizeu-medeiros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  

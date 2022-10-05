@@ -1,4 +1,4 @@
-## Oiii eu sou o Elizeu Medeiros, programador full stack!
+## Oi eu sou o Elizeu Medeiros, programador full stack!
 <div align="center">
   <a href="https://github.com/elizeu-medeiros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elizeu-medeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
